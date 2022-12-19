@@ -159,8 +159,7 @@ a:hover{
 .mobile-image-area {
     width: 100px;
     height: 100px;
-    margin: 0 auto;
-    padding: 20px 0;
+    margin: 20px auto;
 }
 
 .mobile-image {
